@@ -2,8 +2,8 @@ export interface Iprojects{
     src: string,
     alt: string,
     title: string,
-    with: string,
-    height: string,
+    width: number,
+    height: number,
     description:string,
     links:[
         {

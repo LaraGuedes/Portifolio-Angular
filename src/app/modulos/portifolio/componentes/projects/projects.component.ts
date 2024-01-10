@@ -18,8 +18,8 @@ export class ProjectsComponent {
       src: 'assets/img/projects/vfull.png',
       alt:'Vida fullStack',
       title: 'Vida fullStack',
-      with: '100px',
-      height: '51px',
+      width: 100,
+      height: 51,
       description:'<p> Explore o desenvolvimento full<p/>',
       links:[
         {
